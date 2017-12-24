@@ -16,7 +16,7 @@ public  class test {
             System.out.println("dfcz");
             System.out.println("пробв изменений");
             System.out.println("проба изменений - 2");
-  System.out.println("проба изменений - 3 ");
+            System.out.println("проба изменений - 33 ");
 
 
 //        B<Number> o = new B<Integer>();
