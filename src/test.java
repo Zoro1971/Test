@@ -13,10 +13,7 @@ public  class test {
 
 
         public static void main(String[] args)  {
-            System.out.println("dfcz");
-            System.out.println("пробв изменений");
-            System.out.println("проба изменений - 2");
-            System.out.println("проба изменений - 33 ");
+            System.out.println("первый вариант");
 
 
 //        B<Number> o = new B<Integer>();
