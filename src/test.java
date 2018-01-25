@@ -15,7 +15,8 @@ public  class test {
         public static void main(String[] args)  {
             System.out.println("первый вариант");
             System.out.println("второй вариант");
-            System.out.println("третий вариант");
+            System.out.println("третий 3- вариант");
+            System.out.println("4 - вариант");
 
 
 //        B<Number> o = new B<Integer>();
