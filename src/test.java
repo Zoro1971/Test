@@ -13,7 +13,7 @@ public  class test {
             System.out.println("4 - вариант");
             System.out.println("5 - вариант");
 
-
+            System.out.println("8 - вариант");
 //        B<Number> o = new B<Integer>();
 
 //        A<Integer> 04 = new B<Integer>();
